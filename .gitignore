@@ -11,9 +11,9 @@
 /output/
 
 # Exclude data file types
-.doc
-.docx
-.xls
-.xlsx
-.csv
-.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.csv
+*.pdf
