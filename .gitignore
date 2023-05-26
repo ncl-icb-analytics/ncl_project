@@ -1,0 +1,19 @@
+# Exclude default R data formats and R studio files that may accidentally save your data.
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+.quarto
+
+# Exclude the following directories 
+/data/
+/output/
+
+# Exclude data file types
+.doc
+.docx
+.xls
+.xlsx
+.csv
+.pdf
