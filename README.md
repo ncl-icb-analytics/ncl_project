@@ -7,7 +7,9 @@ pull request for new features / changes.
 The aim of this template is two-fold: firstly to give a common structure for analytical projects to aid
 reproducibility, secondly to allow for additional security settings as default to prevent accidental upload of files that should not be committed to git and GitHub.
 
-##To use this template, please use the following practises:
+__Please update/replace this README file with one relevant to your project__
+
+## To use this template, please use the following practises:
 
 * Put any data files in the `data` folder.  This folder is explicitly named in the .gitignore file.  A further layer of security is that all xls, xlsx, csv and pdf files are also explicit ignored in the whole folder as well.  ___If you need to commit one of these files, you must use the `-f` (force) command in `commit`, but you must be sure there is no identifiable data.__
 * Save any documentation in the `docs` file.  This does not mean you should avoid commenting your code, but if you have an operating procedure or supporting documents, add them to this folder.
