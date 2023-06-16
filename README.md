@@ -1,11 +1,11 @@
 # NCL sample project folder
 
-This git repository contains a shell that should be used as the default structure for new R projects
+This git repository contains a shell that should be used as the default structure for new projects
 in the analytical team.  It won't fit all circumstances perfectly, and you can make changes and issue a 
 pull request for new features / changes.
 
 The aim of this template is two-fold: firstly to give a common structure for analytical projects to aid
-reproducibility, secondly to allow for additional security settings as default to prevent accidental upload of files that should not be committed to git and GitHub.
+reproducibility, secondly to allow for additional security settings as default to prevent accidental upload of files that should not be committed to Git and GitHub.
 
 __Please update/replace this README file with one relevant to your project__
 
