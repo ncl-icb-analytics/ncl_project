@@ -16,5 +16,6 @@
 *.xls
 *.xlsx
 *.xlsm
+*.xlsb
 *.csv
 *.pdf
