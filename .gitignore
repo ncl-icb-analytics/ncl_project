@@ -134,7 +134,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-renv/
+renv/library/
+!renv/activate.R
 
 # Spyder project settings
 .spyderproject
