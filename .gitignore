@@ -6,9 +6,11 @@
 .DS_Store
 .quarto
 
-# Exclude the following directories 
-/data/
+# Exclude the following directories
+/data/ 
+!/data/README.md
 /output/
+!/output/README.md
 
 # Exclude data file types
 *.doc
