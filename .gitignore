@@ -27,6 +27,11 @@
 *.png
 *.jpg
 *.jpeg
+*.RData
+*.rdb
+*.rdx
+
+*_cache/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
