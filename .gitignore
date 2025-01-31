@@ -30,6 +30,7 @@
 *.RData
 *.rdb
 *.rdx
+*.rds
 
 *_cache/
 
